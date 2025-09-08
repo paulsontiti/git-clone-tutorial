@@ -1,4 +1,4 @@
-console.log("Hello git clone")
+console.log("Hello git clone - remote change")
 
 console.log("hello push from local repo")
 
